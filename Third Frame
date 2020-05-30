@@ -58,7 +58,7 @@ public class Final3 {
 	       data1 = "From: " + "1985"+ "\n"; 
 	       data2 ="Now: " + "2020"+ "\n";
 	      
-	       data3 ="UUM is at outskirts and"+ "\n";
+	       data3 ="UUM is at outskirts "+ "\n";
 	 	    data4 ="UUM is a public university." + "\n";
 	 	    data5 = "UUM have local and international student." + "\n";
 	       data6 = " ";
@@ -99,9 +99,9 @@ public class Final3 {
 	            data1 = "From: " + "2004"+ "\n"; 
 	 	       data2 ="Now: " + "2020"+ "\n";
 	 	    
-	 	       data3 ="Sunway University at city and"+ "\n";
+	 	       data3 ="Sunway University at city"+ "\n";
 	 	       data4 =" Sunway University is a private university." + "\n";
-	 	       data5 = "Sunway University have local and international students." + "\n";
+	 	       data5 = "Sunway University have local and international student" + "\n";
 	 	       data6 = " ";
 	            data7="As usual Sunway University provide:" + "\n";
 	            data8="1.Teaching at high level"+ "\n";
@@ -133,7 +133,7 @@ public class Final3 {
 	            data1 = "From: " + "2002"+ "\n"; 
 	 	       data2 ="Now: " + "2020"+ "\n";
 	 	    
-	 	       data3 ="UTAR university at city and"+ "\n";
+	 	       data3 ="UTAR university at city"+ "\n";
 	 	       data4 ="UTAR is a non-profit private university." + "\n";
 	 	       data5 = "UTAR only have local student." + "\n";
 	 	       data6 = " ";
